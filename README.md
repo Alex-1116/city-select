@@ -2,7 +2,7 @@
       
 ## 效果如下:  
 
-![Image text](./vcityselect/static/choseCity.gif)
+<!-- ![Image text](./static/choseCity.gif) -->
 
 
 ## 1.定位服务
